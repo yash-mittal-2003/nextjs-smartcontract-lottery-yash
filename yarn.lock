@@ -4889,7 +4889,12 @@ natural-compare@^1.4.0:
   resolved "https://registry.yarnpkg.com/natural-compare/-/natural-compare-1.4.0.tgz#4abebfeed7541f2c27acfb29bdbbd15c8d5ba4f7"
   integrity sha512-OWND8ei3VtNC9h7V60qff3SVobHr996CTwgxubgyQYEpg290h9J0buyECNNJexkFm5sOajh5G116RYA1c8ZMSw==
 
-next@13.3.2:
+next-js@^0.9.0-alpha:
+  version "0.9.0-alpha"
+  resolved "https://registry.yarnpkg.com/next-js/-/next-js-0.9.0-alpha.tgz#5c43aabd4b0355b1b68c129a02e30b045aa7e6f5"
+  integrity sha512-kTsyhgF613KrNTAlMlzdl/SmXEednlPQgqfd/UdQ6DM7zSCxJLnU3lIxOV3sOnLwhXOmLzqztNyifB9KLOozwg==
+
+next@^13.3.2:
   version "13.3.2"
   resolved "https://registry.yarnpkg.com/next/-/next-13.3.2.tgz#3409425593410571aa835867865b6db9c3fddd68"
   integrity sha512-82VuWoMGWFqGUwCEWcqkIhGgdRry+VKVBZ9KNte1Uk2byZKvPZrC5c62fYHrIhSf36YKY6m21hxdyDzn6MDHFA==
@@ -4968,10 +4973,10 @@ node-releases@^2.0.8:
   resolved "https://registry.yarnpkg.com/node-releases/-/node-releases-2.0.10.tgz#c311ebae3b6a148c89b1813fd7c4d3c024ef537f"
   integrity sha512-5GFldHPXVG/YZmFzJvKK2zDSzPKhEp0+ZR5SVaoSag9fsL5YgHbUHDfnG5494ISANDcK4KwPXAx2xqVEydmd7w==
 
-node@^19.8.1:
-  version "19.8.1"
-  resolved "https://registry.yarnpkg.com/node/-/node-19.8.1.tgz#81b5c241369d1b37a98aecf9045ee7b7f11351f1"
-  integrity sha512-qAoX6xM9F/eEv4q4qgCXGSbXWruHVzVJX32XCZizSUNsg5ywYY7di9QMqSDFmPwvJrXjZuhNq2z80+lR9GumLg==
+node@^20.0.0:
+  version "20.0.0"
+  resolved "https://registry.yarnpkg.com/node/-/node-20.0.0.tgz#74222aea3c96f2f3ff9968d13ffc836b3bfbfe7b"
+  integrity sha512-4R1vw5hKUjQw3x65x9g/ape/XlY/ZFHaQWB+jQLFJIJkVKJPDSY4oj3O6qgXOvv2wwgEpK9J2SvJUjuL6zu0uA==
   dependencies:
     node-bin-setup "^1.0.0"
 
