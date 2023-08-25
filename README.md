@@ -2,7 +2,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 
 
-The project is hosted on fleek and you can check it out on the following [URL](https://rapid-morning-8169.on.fleek.co/)
+The project is hosted on fleek and you can check it out on the following [URL](https://fancy-dream-3458.on.fleek.co/)
 
 
 
